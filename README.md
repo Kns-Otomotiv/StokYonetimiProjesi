@@ -1,0 +1,2 @@
+# StokYonetimiProjesi
+ Stok Yönetimi Projesi
